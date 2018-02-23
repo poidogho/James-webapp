@@ -1,0 +1,106 @@
+[{
+	"_id": {
+		"$oid": "59de6cf54beccaecfd4bf249"
+	},
+	"name": "Business Concept 1",
+	"stars": 5.0,
+	"description": "This is buss concept 2....bla bla blaThe 5-star Corinthia Hotel james james james james.",
+	"photos": [
+		"/photos/article/article1/1.jpg",
+		"/photos/article/article1b/2.jpg"
+	],
+	"location": {
+		"address": "1073 Budapest, Erzsébet körút 43-49., Hungary",
+		"coordinates": [
+			47.502649,
+			19.066785
+		]
+	},
+	"article": [
+		"/artcles/bussinessArticles/1.txt"
+	],
+	"reviews": [
+		{
+			"name": "Odafe",
+			"id": "/user/odafe.json",
+			"review": "Great ARTICLE",
+			"rating": 4.0
+		}
+	],
+	"services": [
+		"Fiancial Advicement",
+		"Aservice Contracts",
+		"Mentoring"
+	]
+},
+{
+	"_id": {
+		"$oid": "59de6cf54beccaecfd4bf24a"
+	},
+	"name": "Business Concept 2",
+	"stars": 4.0,
+	"description": "This is buss concept 1....bla bla blaThe 5-star Corinthia Hotel Budapest on the Grand Boulevard offers free access to its Royal Spa, 3 restaurants, an elegant café and free Wi-Fi in all rooms.\nThe UNESCO-protected.",
+	"photos": [
+		"/photos/article/article1/1.jpg",
+		"/photos/article/article1b/2.jpg"
+	],
+	"location": {
+		"address": "1073 Budapest, Erzsébet körút 43-49., Hungary",
+		"coordinates": [
+			47.502649,
+			19.066785
+		]
+	},
+	"article": [
+		"/artcles/bussinessArticles/1.txt"
+	],
+	"reviews": [
+		{
+			"name": "Tamas",
+			"id": "/user/tamas.json",
+			"review": "Great hotel",
+			"rating": 4.0
+		}
+	],
+	"services": [
+		"Fiancial Advicement",
+		"Aservice Contracts",
+		"Mentoring"
+	]
+},
+{
+	"_id": {
+		"$oid": "59de6cf54beccaecfd4bf24b"
+	},
+	"name": "Business Concept 3",
+	"stars": 5.0,
+	"description": "This is buss concept 1....bla bla blaThe 5-star Corinthia Hotel Budapest on the Grand Boulevard offers free access to its Royal Spa, 3 restaurants, an elegant café and free Wi-Fi in all rooms.\nThe UNESCO-protected.",
+	"photos": [
+		"/photos/article/article1/1.jpg",
+		"/photos/article/article1b/2.jpg"
+	],
+	"location": {
+		"address": "1073 Budapest, Erzsébet körút 43-49., Hungary",
+		"coordinates": [
+			47.502649,
+			19.066785
+		]
+	},
+	"article": [
+		"/artcles/bussinessArticles/1.txt"
+	],
+	"reviews": [
+		{
+			"name": "Opeyemi",
+			"id": "/user/opeyemi.json",
+			"review": "Informative",
+			"rating": 5.0
+		}
+	],
+	"services": [
+		"Fiancial Advicement",
+		"Aservice Contracts",
+		"Mentoring"
+	]
+}]
+
